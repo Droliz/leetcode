@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "1efe3877f2147201",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3ec1dff3255a2e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "回溯/求数组子集.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdfe17a93dee5dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b32f18a0ac02db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3c9c8f863a760f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "136a7207ec64cf7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "800a8c1f7dfd3dca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53b77d5d3a009481",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee93a595dc2aaf5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97871d8df6446c50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "回溯/求数组子集.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd5a892293b4b4f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "回溯/求数组子集.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16116f0b06423c57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbe7c1c1b183c070",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "回溯/求数组子集.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ae3ec1dff3255a2e",
+  "lastOpenFiles": [
+    "image/Pasted image 20221207161231.png",
+    "image/Pasted image 20221207165527.png",
+    "回溯/求数组子集.md",
+    "回溯/README.md",
+    "image/Pasted image 20221207161219.png"
+  ]
+}
