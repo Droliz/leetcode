@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "回溯/组合类型/电话号码的字母组合.md",
+            "file": "回溯/切割问题/切割回文子串.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "回溯/组合类型/电话号码的字母组合.md",
+                "file": "回溯/切割问题/切割回文子串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "回溯/组合类型/电话号码的字母组合.md",
+                "file": "回溯/切割问题/切割回文子串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "回溯/组合类型/电话号码的字母组合.md"
+                "file": "回溯/切割问题/切割回文子串.md"
               }
             }
           }
@@ -128,13 +128,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db3c9c8f863a760f",
+  "active": "ae3ec1dff3255a2e",
   "lastOpenFiles": [
+    "回溯/README.md",
+    "回溯/组合类型/电话号码的字母组合.md",
     "回溯/组合类型/组合总和.md",
     "回溯/组合类型/求数组子集.md",
-    "回溯/组合类型/电话号码的字母组合.md",
     "回溯/未命名.md",
-    "回溯/README.md",
     "image/Pasted image 20221207161231.png",
     "image/Pasted image 20221207165527.png",
     "image/Pasted image 20221207161219.png"
