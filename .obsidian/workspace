@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae3ec1dff3255a2e",
+        "id": "2ebb342bbc1c510d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数组/二分查找/搜索插入位置.md",
+            "file": "数组/移除元素/移除元素.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "53b77d5d3a009481",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数组/二分查找/搜索插入位置.md",
+                "file": "数组/移除元素/移除元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数组/二分查找/搜索插入位置.md",
+                "file": "数组/移除元素/移除元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数组/二分查找/搜索插入位置.md"
+                "file": "数组/移除元素/移除元素.md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db3c9c8f863a760f",
+  "active": "2ebb342bbc1c510d",
   "lastOpenFiles": [
+    "数组/移除元素/README.md",
+    "数组/移除元素/移除元素.md",
+    "数组/二分查找/在排序数组中查找元素第一和最后位置.md",
+    "数组/二分查找/搜索插入位置.md",
+    "2022-12-09.md",
     "数组/二分查找/二分查找.md",
     "数组/二分查找/README.md",
     "README.md",
     "RADEM.md",
-    "回溯/棋盘问题/解数独.md",
-    "回溯/棋盘问题/N皇后.md",
-    "回溯/README.md",
-    "回溯/组合类型/电话号码的字母组合.md",
-    "回溯/排列问题/全排列II.md",
-    "回溯/组合类型/组合总和II.md"
+    "回溯/棋盘问题/解数独.md"
   ]
 }
