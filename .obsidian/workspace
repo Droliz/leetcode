@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "回溯/子集问题/递增子序列.md",
+            "file": "回溯/棋盘问题/解数独.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "53b77d5d3a009481",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "回溯/子集问题/递增子序列.md",
+                "file": "回溯/棋盘问题/解数独.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "回溯/子集问题/递增子序列.md",
+                "file": "回溯/棋盘问题/解数独.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "回溯/子集问题/递增子序列.md"
+                "file": "回溯/棋盘问题/解数独.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "ae3ec1dff3255a2e",
   "lastOpenFiles": [
-    "回溯/组合类型/组合总和II.md",
-    "回溯/子集问题/子集II.md",
-    "回溯/组合类型/组合总和III.md",
-    "回溯/子集问题/子集I.md",
+    "回溯/棋盘问题/N皇后.md",
     "回溯/README.md",
-    "回溯/切割问题/复原IP地址.md",
-    "回溯/切割问题/切割回文子串.md",
     "回溯/组合类型/电话号码的字母组合.md",
-    "回溯/组合类型/求数组子集.md",
-    "回溯/未命名.md"
+    "回溯/排列问题/全排列II.md",
+    "回溯/组合类型/组合总和II.md",
+    "回溯/排列问题/全排列.md",
+    "回溯/组合类型/组合总和III.md",
+    "回溯/子集问题/子集II.md",
+    "回溯/子集问题/子集I.md",
+    "回溯/子集问题/递增子序列.md"
   ]
 }

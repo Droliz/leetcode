@@ -53,6 +53,8 @@ if i > 0 and nums[i] == nums[i-1] and used[i-1] == 0:
 	continue
 ```
 
+其中`used[i-1] == 0`是标记是数层去重
+
 上述是通过used数组来记录是否使用，但是其实`index`就是代表从哪一个元素开头，所以上述的去重部分可以简化为
 
 ```python
