@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebb342bbc1c510d",
+        "id": "fe86696426cf8bd2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数组/移除元素/移动零.md",
+            "file": "数组/双指针/长度最小的子数组.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数组/移除元素/移动零.md",
+                "file": "数组/双指针/长度最小的子数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数组/移除元素/移动零.md",
+                "file": "数组/双指针/长度最小的子数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数组/移除元素/移动零.md"
+                "file": "数组/双指针/长度最小的子数组.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ebb342bbc1c510d",
+  "active": "fe86696426cf8bd2",
   "lastOpenFiles": [
+    "数组/双指针/有序数组的平方.md",
+    "数组/双指针/长度最小的子数组.md",
+    "image/Pasted image 20221210175623.png",
+    "image/Pasted image 20221210174337.png",
+    "image/Pasted image 20221210175539.png",
+    "image/Pasted image 20221210175625.png",
+    "栈与队列/栈/比较含退格的字符串.md",
+    "数组/移除元素/移动零.md",
     "数组/移除元素/移除元素.md",
-    "数组/移除元素/删除排序数组中的重复项.md",
-    "数组/移除元素/README.md",
-    "数组/二分查找/在排序数组中查找元素第一和最后位置.md",
-    "数组/二分查找/搜索插入位置.md",
-    "2022-12-09.md",
-    "数组/二分查找/二分查找.md",
-    "数组/二分查找/README.md",
-    "README.md",
-    "RADEM.md"
+    "数组/移除元素/删除排序数组中的重复项.md"
   ]
 }
