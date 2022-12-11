@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "链表/翻转链表/反转链表.md",
+            "file": "链表/翻转链表/反转链表II.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "链表/翻转链表/反转链表.md",
+                "file": "链表/翻转链表/反转链表II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "链表/翻转链表/反转链表.md",
+                "file": "链表/翻转链表/反转链表II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "链表/翻转链表/反转链表.md"
+                "file": "链表/翻转链表/反转链表II.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "fe86696426cf8bd2",
   "lastOpenFiles": [
-    "链表/设计链表.md",
     "链表/翻转链表/反转链表.md",
+    "链表/设计链表.md",
     "链表/链表删除元素/移除链表元素.md",
     "数组/其他/螺旋矩阵II.md",
     "数组/其他/螺旋矩阵.md",
