@@ -17,32 +17,32 @@
 
 ```python
 class Solution:
-    def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
-        nums.sort()
-        res = []
-        used = [0 for _ in range(len(nums))]
-        def dfs(index, _sum, li, used):
-            if _sum > target:
-                return           
-            if target == _sum:
-                res.append(li[:])
-  
-            for i in range(index, len(nums)):
-                if i > 0 and nums[i] == nums[i-1] and used[i-1] == 0:
-                    continue
-  
-                # print(i)
-                used[i] = 1
-                li.append(nums[i])
-                _sum += nums[i]
-                dfs(i + 1, _sum, li, used)
-                li.pop()
-                _sum -= nums[i]
-                used[i] = 0
-  
-        dfs(0, 0, [], used)
-  
-        return res
+	def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
+		nums.sort()
+		res = []
+		used = [0 for _ in range(len(nums))]
+		def dfs(index, _sum, li, used):
+			if _sum > target:
+				return           
+			if target == _sum:
+				res.append(li[:])
+	
+			for i in range(index, len(nums)):
+				if i > 0 and nums[i] == nums[i-1] and used[i-1] == 0:
+					continue
+	
+				# print(i)
+				used[i] = 1
+				li.append(nums[i])
+				_sum += nums[i]
+				dfs(i + 1, _sum, li, used)
+				li.pop()
+				_sum -= nums[i]
+				used[i] = 0
+	
+		dfs(0, 0, [], used)
+	
+		return res
 ```
 
 

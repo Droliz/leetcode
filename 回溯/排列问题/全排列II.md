@@ -17,28 +17,28 @@
 
 ```python
 class Solution:
-    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-  
-        nums.sort()
-        res = []
-        path = []
-        used = [0 for _ in range(len(nums))]
-        def back():
-            if len(path) == len(nums):
-                res.append(path[:])
-                return
-  
-            for i in range(len(nums)):
-                if i > 0 and nums[i] == nums[i-1] and used[i-1] == 0: continue
-                if used[i] == 1: continue
-                used[i] = 1
-                path.append(nums[i])
-                back()
-                path.pop()
-                used[i] = 0
-        back()
-  
-        return res
+	def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+	
+		nums.sort()
+		res = []
+		path = []
+		used = [0 for _ in range(len(nums))]
+		def back():
+			if len(path) == len(nums):
+				res.append(path[:])
+				return
+	
+			for i in range(len(nums)):
+				if i > 0 and nums[i] == nums[i-1] and used[i-1] == 0: continue
+				if used[i] == 1: continue
+				used[i] = 1
+				path.append(nums[i])
+				back()
+				path.pop()
+				used[i] = 0
+		back()
+	
+		return res
 ``` 
 
 注意这里去重的逻辑中，是`continue`不是`break`，如果是`return`或`break`会导致后面的数没有取到
