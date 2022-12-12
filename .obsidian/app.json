@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "/image",
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "spellcheck": true
 }
