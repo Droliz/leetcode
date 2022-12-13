@@ -1,6 +1,6 @@
 # 组合总和III
 
-![[Pasted image 20221207174417.png]]
+![](Pasted%20image%2020221207174417.png)
 
 ## 回溯
 

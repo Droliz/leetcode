@@ -1,6 +1,6 @@
 # 子集II
 
-![[Pasted image 20221208195458.png]]
+![](Pasted%20image%2020221208195458.png)
 
 ## 回溯
 
