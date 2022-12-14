@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fe86696426cf8bd2",
+        "id": "8b9c713a68851e96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哈希表/两数之和.md",
+            "file": "哈希表/四数相加II.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "53b77d5d3a009481",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哈希表/两数之和.md",
+                "file": "哈希表/四数相加II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哈希表/两数之和.md",
+                "file": "哈希表/四数相加II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哈希表/两数之和.md"
+                "file": "哈希表/四数相加II.md"
               }
             }
           }
@@ -128,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe86696426cf8bd2",
+  "active": "8b9c713a68851e96",
   "lastOpenFiles": [
-    "哈希表/有效的字母异位词.md",
+    "哈希表/两数之和.md",
+    "哈希表/README.md",
     "哈希表/两个数组的交集.md",
+    "哈希表/有效的字母异位词.md",
+    "哈希表/四数相加II.md",
     "回溯/组合类型/组合总和III.md",
     "回溯/组合类型/组合总和II.md",
     "回溯/组合类型/求数组子集.md",
     "回溯/组合类型/电话号码的字母组合.md",
-    "回溯/子集问题/子集II.md",
-    "回溯/子集问题/子集I.md",
-    "回溯/子集问题/递增子序列.md",
-    "回溯/切割问题/切割回文子串.md"
+    "回溯/子集问题/子集II.md"
   ]
 }
