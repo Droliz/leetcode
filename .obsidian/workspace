@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "模拟/二维网格迁移.md",
+            "file": "模拟/使用特殊打字机键入单词的最少时间.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模拟/二维网格迁移.md",
+                "file": "模拟/使用特殊打字机键入单词的最少时间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模拟/二维网格迁移.md",
+                "file": "模拟/使用特殊打字机键入单词的最少时间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模拟/二维网格迁移.md"
+                "file": "模拟/使用特殊打字机键入单词的最少时间.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "8b9c713a68851e96",
   "lastOpenFiles": [
+    "模拟/二维网格迁移.md",
     "哈希表/统计一个数组中好对子的数目.md",
     "数组/其他/未命名.md",
     "前缀和/二维区域和检索.md",
@@ -138,7 +139,6 @@
     "字符串/KMP算法.md",
     "字符串/翻转字符串中的单词.md",
     "字符串/反转字符串.md",
-    "字符串/反转字符串II.md",
-    "数组/双指针/四数之和.md"
+    "字符串/反转字符串II.md"
   ]
 }
