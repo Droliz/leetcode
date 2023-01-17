@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哈希表/统计一个数组中好对子的数目.md",
+            "file": "模拟/二维网格迁移.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "53b77d5d3a009481",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哈希表/统计一个数组中好对子的数目.md",
+                "file": "模拟/二维网格迁移.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哈希表/统计一个数组中好对子的数目.md",
+                "file": "模拟/二维网格迁移.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哈希表/统计一个数组中好对子的数目.md"
+                "file": "模拟/二维网格迁移.md"
               }
             }
           }
@@ -131,6 +130,7 @@
   },
   "active": "8b9c713a68851e96",
   "lastOpenFiles": [
+    "哈希表/统计一个数组中好对子的数目.md",
     "数组/其他/未命名.md",
     "前缀和/二维区域和检索.md",
     "前缀和/连续数组.md",
@@ -139,7 +139,6 @@
     "字符串/翻转字符串中的单词.md",
     "字符串/反转字符串.md",
     "字符串/反转字符串II.md",
-    "数组/双指针/四数之和.md",
-    "数组/双指针/三数之和.md"
+    "数组/双指针/四数之和.md"
   ]
 }
